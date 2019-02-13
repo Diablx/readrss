@@ -1,0 +1,15 @@
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\bin\Debug\ReadRss.exe.config
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\bin\Debug\ReadRss.exe
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\bin\Debug\ReadRss.pdb
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.csprojAssemblyReference.cache
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\MainWindow.g.cs
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\App.g.cs
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss_MarkupCompile.cache
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss_MarkupCompile.lref
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\MainWindow.baml
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.g.resources
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.Properties.Resources.resources
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.csproj.GenerateResource.cache
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.csproj.CoreCompileInputs.cache
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.exe
+C:\Users\Kajetan\source\repos\ReadRss\ReadRss\obj\Debug\ReadRss.pdb
